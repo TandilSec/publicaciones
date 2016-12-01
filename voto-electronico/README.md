@@ -8,6 +8,6 @@ La charla tuvo la participación del Mg. Hugo Curti, docente de la Facultad de C
 
 * [Presentacion](Caso-BUE-Votar.pdf)
 * [Evento en Facebook](https://www.facebook.com/events/226063677827556/)
-* [Noticia en portal de la Facultad de Ciencias Exactas](https://www.exa.unicen.edu.ar/es/noticia/debate-voto-electronico-antecedentes-y-proyecciones)
-* [Noticia en sitio del CEFCE](https://www.cefce.com.ar/?p=7680)
+* [Noticia en portal de la Facultad de Ciencias Exactas](http://www.exa.unicen.edu.ar/es/noticia/debate-voto-electronico-antecedentes-y-proyecciones)
+* [Noticia en sitio del CEFCE](http://www.cefce.com.ar/?p=7680)
 * [Post del evento en página del TIT](https://www.facebook.com/TITandil/posts/1172933216119563)
