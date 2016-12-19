@@ -11,3 +11,4 @@ La charla tuvo la participación del Mg. Hugo Curti, docente de la Facultad de C
 * [Noticia en portal de la Facultad de Ciencias Exactas](http://www.exa.unicen.edu.ar/es/noticia/debate-voto-electronico-antecedentes-y-proyecciones)
 * [Noticia en sitio del CEFCE](http://www.cefce.com.ar/?p=7680)
 * [Post del evento en página del TIT](https://www.facebook.com/TITandil/posts/1172933216119563)
+* [Informe colaborativo sobre el Taller de Debate sobre Voto Electrónico](http://www.cefce.com.ar/?p=7690)
