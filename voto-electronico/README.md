@@ -1,6 +1,6 @@
 # Voto electrónico
 
-## Debate sobre Voto Electrónico: Antecedentes y Proyecciones (2016/11/29)
+## Debate sobre Voto Electrónico: Antecedentes y Proyecciones (2016/11/25)
 
 La [Secretaría de Extensión](http://www.exa.unicen.edu.ar/es/extension) de la [Facultad de Ciencias Exactas](http://www.exa.unicen.edu.ar/) de la [UNICEN](http://www.unicen.edu.ar/), junto con el [Centro de Estudiantes de la Facultad de Ciencias Exactas](http://www.cefce.com.ar/) y [Trabajadores de la Informática de Tandil](http://www.titandil.org/) organizaron una charla debate sobre voto electrónico.
 

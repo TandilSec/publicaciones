@@ -7,7 +7,7 @@ Este repositorio contiene publicaciones dadas por [TandilSec](https://www.meetup
 
 ## 2016
 
-* [Debate sobre Voto Electrónico: Antecedentes y Proyecciones (2016/11/29)](voto-electronico/README.md)
+* [Debate sobre Voto Electrónico: Antecedentes y Proyecciones (2016/11/25)](voto-electronico/README.md)
 
 ## 2017
 

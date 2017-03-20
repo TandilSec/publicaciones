@@ -23,6 +23,5 @@ namespaces, cgroups, etc. - *Martín Gallo*
 ¿Que es Docker y cómo funciona? Alternativas a Docker. Ventajas, desventajas.
 Interoperabilidad. - *Juan Manuel Lopez*
 
-* [Presentación](XXX.pdf) ([pdf](XXX.pdf)/[opd](XXX.opd))
 
 [![Flyer](TandilSec-Charlas-contenedores-flyer.jpg)](https://www.meetup.com/TandilSec/events/238149287/)
