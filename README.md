@@ -1,6 +1,14 @@
 
-![TandilSec logo](TandilSec-Logo-small.jpg)
+[![TandilSec logo](TandilSec-Logo-small.jpg)](https://www.meetup.com/TandilSec/)
 
 # Publicaciones
 
 Este repositorio contiene publicaciones dadas por [TandilSec](https://www.meetup.com/TandilSec/).
+
+## 2016
+
+* [Debate sobre Voto Electrónico: Antecedentes y Proyecciones (2016/11/29)](voto-electronico/README.md)
+
+## 2017
+
+* [Primera jornada de charlas - Contenedores (2017/03/18)](charlas-contenedores/README.md)
