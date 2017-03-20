@@ -1,7 +1,7 @@
 # Makefile para la compilación de los ejemplos y la creacion de la imagen de
 # Docker donde ejecutarlos.
 
-NAME = tandilsec/contenedores
+NAME = tandilsec/introduccion-a-contenedores-en-linux
 VERSION = 0.1.1
 
 CC=gcc

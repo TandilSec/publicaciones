@@ -9,12 +9,14 @@ a DevOps y otros ámbitos.
 Modelo de procesos en Linux, syscalls, pid/mount/ipc/uts/network/user
 namespaces, cgroups, etc. - *Martín Gallo*
 
-* [Presentación](TandilSec-Contenedores.pdf)
-  ([pdf](TandilSec-Contenedores.pdf)/[opd](TandilSec-Contenedores.opd))
+* [Presentación](Introduccion-a-contenedores-en-Linux.pdf)
+  ([pdf](Introduccion-a-contenedores-en-Linux.pdf)/[opd](Introduccion-a-contenedores-en-Linux.opd))
 * [Códigos de ejemplo](src/)
   * [01 - Creación de un namespace de archivos](src/01-nuevo-namespace-mount.c)
   * [02 - Unirme a un namespace existente](src/02-unirme-namespace.c)
   * [03 - Creación de un "contenedor"](src/03-contenedor.c)
+  * [Makefile](src/Makefile)
+  * [Dockerfile](src/Dockerfile)
 
 ## Docker, rkt, lxc, snap, flatpack, [..]
 
@@ -23,4 +25,4 @@ Interoperabilidad. - *Juan Manuel Lopez*
 
 * [Presentación](XXX.pdf) ([pdf](XXX.pdf)/[opd](XXX.opd))
 
-[![Flyer](TandilSec-Contenedores-flyer.jpg)](https://www.meetup.com/TandilSec/events/238149287/)
+[![Flyer](TandilSec-Charlas-contenedores-flyer.jpg)](https://www.meetup.com/TandilSec/events/238149287/)
