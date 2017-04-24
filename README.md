@@ -12,3 +12,4 @@ Este repositorio contiene publicaciones dadas por [TandilSec](https://www.meetup
 ## 2017
 
 * [Primera jornada de charlas - Contenedores (2017/03/18)](charlas-contenedores/README.md)
+* [FliSol Tandil 2017 - Comunicaciones seguras (2017/04/22)](comunicaciones-seguras/README.md)
