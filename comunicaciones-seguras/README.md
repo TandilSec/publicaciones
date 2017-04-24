@@ -6,8 +6,8 @@ Cómo parte del [FliSol Tandil 2017](http://flisol.info/FLISOL2017/Argentina/Tan
 charla/debate introductorio a la temática de comunicaciones seguras y su impacto en la sociedad y el
 día de día de todos.
 
-* [Presentacion](Comunicaciones-Seguras.pdf)
-  ([pdf](Comunicaciones-Seguras.pdf)/[opd](Comunicaciones-Seguras.opd))
+* [Presentacion](comunicaciones-seguras.pdf)
+  ([pdf](comunicaciones-seguras.pdf)/[opd](comunicaciones-seguras.opd))
 * [FliSol Tandil 2017](http://flisol.info/FLISOL2017/Argentina/Tandil)
 * [Evento en Facebook](https://www.facebook.com/events/226063677827556/)
 
