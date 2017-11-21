@@ -1,4 +1,4 @@
-# Primera Jornada de charlas TandilSec
+# Segunda Jornada de charlas TandilSec
 
 El 18 de Marzo de 2017 realizamos la segunda jornada de charlas de TandilSec.
 
