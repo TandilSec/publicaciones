@@ -18,5 +18,6 @@ Este repositorio contiene publicaciones dadas por [TandilSec](https://www.meetup
 
 ## 2018
 
-* [FliSol Tandil 2018 - Hackaton de Datos Abiertos (2017/05/05)](https://github.com/TandilSec/hackathon-flisol2018)
+* [Open House - edición #Meltdown (2018/01/25)](https://www.meetup.com/TandilSec/events/247057087/)
+* [FliSol Tandil 2018 - Hackaton de Datos Abiertos (2018/05/05)](https://github.com/TandilSec/hackathon-flisol2018)
 * [Tercer jornada de charlas (2018/10/06)](charlas-2018-octubre/README.md)
