@@ -14,4 +14,4 @@ Charlas y actividades:
 - Debate Abierto: "Divulgación vs Transparencia"
 
 
-[![Flyer](charlas-2019-agosto\CharlasTandilSec-2019-08-31)](https://www.meetup.com/TandilSec/events/263623359/)
+[![Flyer](CharlasTandilSec-2019-08-31.png)](https://www.meetup.com/TandilSec/events/263623359/)
