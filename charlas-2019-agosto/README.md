@@ -10,7 +10,7 @@ Charlas y actividades:
 - “Intro al paradigm de DevOps” por [Mariano Rodriguez](https://twitter.com/martemars) y Augusto de Vera
 - “Metadata Attacks, nice instance, we'll take it” por [Agustín Osorio](https://twitter.com/AgustnOsorio4)
 - "Síntesis aditiva y protocolo MIDI 101" por Agustín Diez
-- "The (in)definite Story Behind Not-So-Smartmatic" por [Matías A. Ré Medina](https://twitter.com/mattaereal)
+- ["The (in)definite Story Behind Not-So-Smartmatic"]("The%20(in)definite%20story%20behind%20not-so-SmartMatic.pdf") por [Matías A. Ré Medina](https://twitter.com/mattaereal)
 - Debate Abierto: "Divulgación vs Transparencia"
 
 
