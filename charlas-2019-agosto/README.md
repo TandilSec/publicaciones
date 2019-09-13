@@ -5,7 +5,7 @@ El 31 de Agosto de 2019 realizamos una nueva jornada de charlas, esta vez con fo
 
 Charlas y actividades:
 
-- “Criptografía cuántica, el futuro de la Ciberseguridad” por [Mariano Rodriguez](https://twitter.com/martemars)
+- [“Criptografía cuántica, el futuro de la Ciberseguridad”](CriptoCuantica.odp) por [Mariano Rodriguez](https://twitter.com/martemars)
 - [“IoT: Internet of Tracking”](IoT-Internet-of-Tracking.odp) por [Ariel Masillo](https://twitter.com/ArielMasillo)
 - “Intro al paradigm de DevOps” por [Mariano Rodriguez](https://twitter.com/martemars) y Augusto de Vera
 - [“Metadata Attacks, nice instance, we'll take it”](MetaData-Attack-nice-instance-well-take-it.pdf) por [Agustín Osorio](https://twitter.com/AgustnOsorio4)
