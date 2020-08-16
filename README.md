@@ -5,6 +5,10 @@
 
 Este repositorio contiene publicaciones dadas por [TandilSec](https://www.meetup.com/TandilSec/).
 
+## 2020
+
+* [Conferencia #5 (2020/08/15)](charlas-2020-agosto/README.md)
+
 ## 2019
 
 * [Conferencia #4 (2019/08/31)](charlas-2019-agosto/README.md)
