@@ -10,7 +10,7 @@ El 15 de Agosto de 2020 realizamos una nueva conferencia, esta vez remota!
 - “Introducción al lockpicking clásico”, por Juani Bousquet y Agustín Lombardo de LockPickAR
 - “Introducción a la seguridad física y Lockpickar” por Juani Bousquet y Agustín Lombardo de LockPickAR
 - "Privacidad, anonimato, intimidad" por KennBro
-- "Weaknesses on Machine Learning Models" por Lucas Bonastre, Security Researcher en [Pucara Information Security](https://www.pucarasec.com/)
+- ["Weaknesses on Machine Learning Models"](Machine-learning-weaknesses.pdf) por Lucas Bonastre, Security Researcher en [Pucara Information Security](https://www.pucarasec.com/)
 - “Síntesis Sustractiva 101” por AX
 - ["CuidAR: ¿Espionaje o realidad?"](CuidAR.pptx) por Guido Modarelli
 
