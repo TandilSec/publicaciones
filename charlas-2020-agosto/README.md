@@ -5,14 +5,16 @@ El 15 de Agosto de 2020 realizamos una nueva conferencia, esta vez remota!
 ## Charlas y actividades:
 
 
-- ["Straight Outta Home: video platforms reliability"](Straight-Outta-Home.pptx) por Agustín Osorio
-- [“NAND 2 Tetris”](NAND-2-Tetris-TandilSec-Talk.pptx) por Gkasgd
+- ["Straight Outta Home: video platforms reliability"](Straight-Outta-Home.pptx) por Agustín Osorio | ([presentación](Straight-Outta-Home.pptx))
+- [“NAND 2 Tetris”](NAND-2-Tetris-TandilSec-Talk.pptx) por Gkasgd | ([presentación](NAND-2-Tetris-TandilSec-Talk.pptx))
 - “Introducción al lockpicking clásico”, por Juani Bousquet y Agustín Lombardo de LockPickAR
 - “Introducción a la seguridad física y Lockpickar” por Juani Bousquet y Agustín Lombardo de LockPickAR
-- "Privacidad, anonimato, intimidad" por KennBro
-- ["Weaknesses on Machine Learning Models"](Machine-learning-weaknesses.pdf) por Lucas Bonastre, Security Researcher en [Pucara Information Security](https://www.pucarasec.com/)
+- ["Privacidad, anonimato, intimidad"](TandilSec-Privacidad.pdf) por [KennBro](https://twitter.com/kennbroorg)
+- ["Weaknesses on Machine Learning Models"](https://youtu.be/vaedkT9UXeU) por Lucas Bonastre, Security Researcher en [Pucara Information Security](https://www.pucarasec.com/) | ([video](https://youtu.be/vaedkT9UXeU))) ([presentación](Machine-learning-weaknesses.pdf))
 - “Síntesis Sustractiva 101” por AX
-- ["CuidAR: ¿Espionaje o realidad?"](CuidAR.pptx) por Guido Modarelli
+- ["CuidAR: ¿Espionaje o realidad?"](CuidAR.pptx) por Guido Modarelli | ([presentación](CuidAR.pptx))
+
+Podes ver el contenido publicado en la [nuestro canal de YouTube](https://www.youtube.com/playlist?list=PLQJmV18jJ6MoIVB5iqPi1I-AR1mA1Kq6Q)!
 
 ---
 
