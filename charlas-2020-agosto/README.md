@@ -1,11 +1,11 @@
 # Conferencia TandilSec #5
 
-El 15 de Agosto de 2020 realizamos una nueva conferencia, esta vez remota!
+El 15 de Agosto de 2020 realizamos una nueva conferencia, ¡ésta vez remota!
 
 ## Charlas y actividades:
 
 
-- ["Straight Outta Home: video platforms reliability"](Straight-Outta-Home.pptx) por Agustín Osorio | ([presentación](Straight-Outta-Home.pptx))
+- ["Straight Outta Home: video platforms reliability"](https://youtu.be/15Zz-qKw-Ns) por Agustín Osorio | ([video](https://youtu.be/15Zz-qKw-Ns)) ([presentación](Straight-Outta-Home.pptx))
 - [“NAND 2 Tetris”](NAND-2-Tetris-TandilSec-Talk.pptx) por Gkasgd | ([presentación](NAND-2-Tetris-TandilSec-Talk.pptx))
 - “Introducción al lockpicking clásico”, por Juani Bousquet y Agustín Lombardo de LockPickAR
 - “Introducción a la seguridad física y Lockpickar” por Juani Bousquet y Agustín Lombardo de LockPickAR
@@ -26,6 +26,8 @@ Contamos con el apoyo de: 🥰
 - [Faraday Security](https://www.faradaysec.com/)
 - [ElTheam.ar](https://eltheam.ar/)
 - AnonUser#1337
+
+---
 
 ### Agradecimientos
 
